@@ -13,3 +13,17 @@ hr {
 h1 {color: brown;}
 
 h3 {color: brown;}
+
+.business-descriptor {
+    background-color: tan;
+}
+
+.travel {
+    background-color: cadetblue;
+}
+
+.my-story {
+    background-color: tan;
+}
+
+/*   this is a comment */
